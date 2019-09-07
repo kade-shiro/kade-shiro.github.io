@@ -2,7 +2,7 @@
 published: false
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/flappy.png
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
