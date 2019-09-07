@@ -71,7 +71,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "August 2017",
+      "startDate": "2017",
       "endDate": "Present",
       "gpa": "3.2",
       "courses": [
@@ -83,7 +83,7 @@
       "company": "School of Ocean and Earth Science and Technology",
       "position": "Student Assistant",
       "website": "https://www.soest.hawaii.edu/soestwp/",
-      "startDate": "April 2019",
+      "startDate": "2019-04",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -96,8 +96,8 @@
       "company": "UH Manoa Bookstore",
       "position": "Customer Service Trainee",
       "website": "https://www.bookstore.hawaii.edu/manoa/",
-      "startDate": "April 2018",
-      "endDate": "February 2019",
+      "startDate": "2018-04",
+      "endDate": "2019-02",
       "summary": "",
       "highlights": [
         "Restock supplies and clothing departments",
@@ -112,8 +112,8 @@
       "organization": "UH Manoa Band",
       "website": "",
       "position": "",
-      "startDate": "August 2017",
-      "endDate": "May 2018",
+      "startDate": "2017-08",
+      "endDate": "2018-05",
       "summary": "Drumline performer for school promoting events",
       "highlights": [
         "Fifth bass drum for UH football games an events",
