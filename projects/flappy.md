@@ -1,5 +1,4 @@
 ---
-published: false
 layout: project
 type: project
 image: images/flappy.png
