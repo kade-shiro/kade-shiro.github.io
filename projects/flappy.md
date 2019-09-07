@@ -12,4 +12,6 @@ labels:
 summary: A simple mobile game using code.org.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/flappy code.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/flappy code.png">
+</div>
