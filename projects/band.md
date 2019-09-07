@@ -6,7 +6,7 @@ title: Drumline
 permalink: projects/band
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
-labels:
+labels: 
   - Marching Band
   - Teamwork
 summary: I was in the UH Manoa Marching Band during my freshman year.
