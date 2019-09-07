@@ -12,6 +12,7 @@ labels:
 summary: I was in the UH Manoa Marching Band during my freshman year.
 ---
 
+
 I've been doing band for 7 years and participated in marching band for 5 years. I started marching during my freshman year at Castle High
 School playing the bass drum, and that instrument stuck with me for most of my marching career which ended freshman year at UH. I
 also became bass section leader during my junior year, but tried the tenor drums as a senior.
