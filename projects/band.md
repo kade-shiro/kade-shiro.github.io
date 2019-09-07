@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/Band.jpg
 title: Drumline
-permalink: projects/band
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-01
 labels: 
