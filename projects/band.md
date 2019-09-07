@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/Band.jpg
-title: UH Manoa Drumline
+title: Drumline
 permalink: projects/band
 # All dates must be YYYY-MM-DD format!
-date: 2017-08
+date: 2017-08-01
 labels:
   - Marching Band
   - Teamwork
