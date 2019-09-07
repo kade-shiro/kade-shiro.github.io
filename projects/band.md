@@ -21,4 +21,3 @@ responsible for 5 or 6 notes split up amongst that number of players, where othe
 instrument and this taught me the value of teamwork. As a bass section leader, I was also responsible for connecting all those minds
 together. Marching band in general also gave me the coordination to work professionally and collectively with upwards of 60 people. It's
 an experience that I'm grateful for from it's many values of teamwork and leadership. 
- 
