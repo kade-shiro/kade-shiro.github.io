@@ -9,7 +9,7 @@ date: 2017-08-01
 labels: 
   - Marching Band
   - Teamwork
-summary: I was in the UH Manoa Marching Band during my freshman year.
+summary: I was in the UH Manoa Marching Band during my freshman year
 ---
 
 I've been doing band for 7 years and participated in marching band for 5 years. I started marching during my freshman year at Castle High
