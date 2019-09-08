@@ -8,7 +8,7 @@ permalink: projects/flappy
 date: 2017-06-01
 labels:
   - Code
-summary: A simple mobile game using code.org.
+summary: A simple mobile game using code.org
 ---
 
 <div class="ui small rounded images">
