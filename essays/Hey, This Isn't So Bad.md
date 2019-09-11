@@ -19,9 +19,9 @@ At the time of writing this paper I’ve only been exposed to javascript for abo
 
 Just in the first week, this class expected us to learn javascript and write code with it, which was overwhelming but using freeCodeCamp really helped. After going through the lessons, I found this language very reminiscent of C and C++, but with the added benefit of ES6. Typecasting in other languages was frustrating, writing headers seemed redundant even though it was necessary, and assigning return and parameter types did feel a bit like a chore, making javascript seem like a piece of cake in comparison. As of now, I prefer javascript because there’s a lot of potential in ES6 to create awesome and efficient code.
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/just-use-triple-equals.jpeg">
-</div>
+
+<img class="medium right floated rounded image" src="../images/just-use-triple-equals.jpeg">
+
 
 ## Week One, Done
 
