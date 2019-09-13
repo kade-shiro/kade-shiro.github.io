@@ -44,3 +44,4 @@ respond to your issues. Before this experience of searching the do's and don'ts,
 clueless people asking dumb questions, but this has taught me the value of phrasing problems properly. This 
 standard is important in every subject but expecially in software engineering, where programmers are pressed
 for time and need the best solution as fast as possible.
+ 
