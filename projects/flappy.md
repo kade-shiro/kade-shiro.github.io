@@ -11,7 +11,7 @@ labels:
 summary: A simple mobile game using code.org
 --- 
 
-<img class="ui large left floated rounded image" src="../images/flappy code.png">
+<img class="ui large right floated rounded image" src="../images/flappy code.png">
 
 In the summer of 2017, before learning anything about programming, I made a simple game using the flappy bird template on [code.org](https://code.org/). Although this website is for kids, I played around with it to get a basic idea of what coding would be like. This experiences ended up being beneficial in shaping a programmer mindset and it exposed me a little bit to object oriented programming by making an object and giving it properties. 
 
