@@ -13,6 +13,8 @@ labels:
 
 My current goal for getting a bachelors degree in Computer Science is to become a game developer, and I hope to pick up many diverse skills and make many connections along the way, but even though I'm in my third year, that path ahead seems long and shakey. As I am now, I'm not the fastest problem solver or the most experienced programmer and up until freshman year of college, I had no idea what major would be of best interest to me. Nevertheless I'm determined to learn as much as I can, become more experienced, and earn that degree. 
 
+
+<img class="ui medium right floated rounded image" src="/images/comp-sci-meme.jpg">
 ## My First Step
 
 Throughout high school, teachers and couselors would always tell me not to worry if I haven't decided on a major because I still have time, but when regeistration for college came around I was alarmed. There were signs everywhere saying it takes four years to graduate and my friends had all decided which track they would focus on but I didn't want to be that person going through college with no career goal. Saying I had no idea what my interests were was an overstatement, because I was curious about computers and I liked playing games, but I wasn't ready to commit myself towards that path just yet. I was pretty good at math and logic, and I enjoyed subjects with free expression like art, but I wasn't skilled in drawing and I couldn't see myself doing math problems for the rest of my life so thats when I decided on computer science. 
