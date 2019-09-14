@@ -14,13 +14,12 @@ labels:
 
 At the time of writing this paper I’ve only been exposed to javascript for about a week, but to my surprise, this language was very simple and convenient to use. My previous coding experiences were with java, C, and C++, following my school’s ICS curriculum, but I was never fond of those languages. They posed some challenges for me, not so much with algorithms, but more with the implementation and syntax like the use of pointers. At the start of this semester, we hit the ground running with this new language, javascript, and having to learn all the new rules was alarming but fortunately this style was made easy enough for anybody to pick up and that was as relief.   
 
+<img class="ui medium right floated rounded image" src="../images/just-use-triple-equals.jpeg">
 
 ## This I Like
 
 Just in the first week, this class expected us to learn javascript and write code with it, which was overwhelming but using freeCodeCamp really helped. After going through the lessons, I found this language very reminiscent of C and C++, but with the added benefit of ES6. Typecasting in other languages was frustrating, writing headers seemed redundant even though it was necessary, and assigning return and parameter types did feel a bit like a chore, making javascript seem like a piece of cake in comparison. As of now, I prefer javascript because there’s a lot of potential in ES6 to create awesome and efficient code.
 
-
-<img class="ui small right floated rounded image" src="../images/just-use-triple-equals.jpeg">
 
 
 ## Week One, Done
