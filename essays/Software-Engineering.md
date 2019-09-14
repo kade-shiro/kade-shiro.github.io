@@ -9,7 +9,7 @@ labels:
   - Background
 ---
 
-<img class="ui medium rounded image" src="/images/programmer.jpg">
+<img class="ui large rounded image" src="/images/programmer.jpg">
 ## The Plan
 
 My current goal for getting a bachelors degree in Computer Science is to become a game developer, and I hope to pick up many diverse skills and make many connections along the way, but even though I'm in my third year, that path ahead seems long and shakey. As I am now, I'm not the fastest problem solver or the most experienced programmer and up until freshman year of college, I had no idea what major would be of best interest to me. Nevertheless I'm determined to learn as much as I can, become more experienced, and earn that degree. 
