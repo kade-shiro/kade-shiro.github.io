@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: images/flappy.png
-title: Flappy Birdish
-permalink: projects/flappy
+image: images/piggybank.jpg
+title: Bank Database
+permalink: projects/bankdatabase
 # All dates must be YYYY-MM-DD format!
-date: 2017-06-01
+date: 2018-02-01
 labels:
-  - Code
-summary: A simple mobile game using code.org
+  - C++
+summary: A database project from ICS 212 to hold user accounts.
 --- 
