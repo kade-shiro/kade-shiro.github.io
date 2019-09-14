@@ -12,7 +12,7 @@ labels:
 summary: I was in the UH Manoa Marching Band during my freshman year.
 ---
 
-<img class= "ui small right floated rounded image" src="/images/band-in-stand.png">
+<img class= "ui medium right floated rounded image" src="/images/band-in-stand.png">
 
 
 I've been doing band for 7 years and participated in marching band for 5 of them. I started marching during my freshman year at Castle High
