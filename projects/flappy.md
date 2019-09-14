@@ -11,6 +11,5 @@ labels:
 summary: A simple mobile game using code.org
 --- 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/flappy code.png">
-</div>
+<img class="ui medium floated rounded image" src="../images/flappy code.png">
+
