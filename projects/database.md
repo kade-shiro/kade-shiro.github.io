@@ -11,6 +11,8 @@ labels:
 summary: A database project from ICS 212 to hold user accounts.
 --- 
 
+<img class="ui medium right floated rounded image" src="/images/bankdatabase.jpg">
+
 Bank Database Application was the second project for my ICS 212 class. It was converted from C code to C++
 which originated from my first project of this course. This program was meant to hold an account for users in a collective
 database and displayed a user-interface on start-up. This program is capable of adding new records, removing existing 
