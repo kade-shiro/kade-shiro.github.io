@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-## A Game-changer
+## Game-changer
 
 With all the different programming languages and coding styles, reading code can be a pain. There were times where I would even get frustrated at my own code, like searching for that ending-curly brace which was on the wrong line. I've also had professors who preferred different styles which quickly became confusing and it made me wish that there was a universal format or a program that would fix these style errors. Fortunately, I was introduced to one in my Software Engineering class, ESLint. This became a game-changer for me because it gives me the opportunity to write code more efficiently and pick up new information faster.
 
