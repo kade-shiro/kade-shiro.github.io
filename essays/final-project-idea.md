@@ -36,3 +36,5 @@ labels:
 - Allow anonymous users to propose edits to bathrooms and send proposal to admins
 - Rating and review system for bathrooms
 - Notification system for admins of new bathrooms added and edit proposals
+
+This essay was created by Kade Shiroma, Luke McDonald.
