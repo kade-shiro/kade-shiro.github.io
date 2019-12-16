@@ -10,7 +10,7 @@ labels:
   - Configuration Management
   - Agile Project Management
 ---
-<img class="ui medium center rounded image" src="../images/lightbulb.png">
+<img class="ui large center rounded image" src="../images/lightbulb.png">
 
 ## Tools of Success
 
