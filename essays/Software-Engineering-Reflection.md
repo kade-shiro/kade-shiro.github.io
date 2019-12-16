@@ -10,7 +10,7 @@ labels:
   - Configuration Management
   - Agile Project Management
 ---
-<img class="ui large center rounded image" src="../images/lightbulb.png">
+<img class="ui huge middle rounded image" src="../images/lightbulb.png">
 
 ## Tools of Success
 
@@ -22,7 +22,7 @@ During my time studying software engineering, I’ve picked up on many powerful 
 
 Configuration management works as a form of error checking, making sure all the elements of the configuration of a system functions properly. For web development, we utilized version control as a backup to return to when things go wrong beyond our capabilities of fixing it. I found myself using version control a lot especially when first learning software development when I didn’t understand how certain code worked. Github was our go to for this method, and this application was extremely useful with its capabilities of making branches off of a master branch. With this method, you would always have an outdated but working version that you can update once your new code works as intended. For our final project in software engineering we worked in groups to develop a website and that’s where I got to see the full potential of configuration management. It made splitting up the work easier and updating the master branch more organized. Through Github you could also see the history of other collaborators which made error checking simple and efficient. I’ll definitely be using this concept and Github in the future, in both web development and software engineering.
 
-<img class="ui large right floated rounded image" src="../images/timeline.png">
+<img class="ui large right rounded image" src="../images/timeline.png">
 
 ## Break it Down
 
