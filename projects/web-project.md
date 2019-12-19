@@ -14,7 +14,7 @@ labels:
 summary: A website project from ICS 314 where people can post and share recipe ideas.
 --- 
 
-<div style="text-align:center"><img class="ui huge floated rounded image" src="/images/landing.PNG"></div>
+<div style="text-align:center"><img class="ui huge floated rounded image" src="/images/landing.PNG"><br /></div>
 
 
 Simply Savory is a web application for UH Manoa students to create and share simple recipes for others on a budget. The site allows users to sign up for an account, save their favorite recipes, write reviews, like recipes, and search based on the recipe's name or ingredients. Our website also has a help page so new users would be able to navigate through our site easily. More information and a link to our site can be found on our homepage at [https://simply-savory.github.io](https://simply-savory.github.io/).
